@@ -1,5 +1,5 @@
 # M8
-it is a esolang made my DCGSAL143.IT is very hard seriously.
+it is a esolang made my NextLevel Upa.IT is very hard seriously.
 # M8 – Python Chaos Engine
 
 ![M8 Project Image](./m_20250816_153903_0000.jpeg)
